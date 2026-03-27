@@ -5,7 +5,7 @@
 | Priya Sharma | Product Manager | Friendly but busy — sometimes vague on details, expect to ask follow-up questions |
 | Dan O'Brien | Developer | Helpful but defensive about his code — may push back on bug reports |
 | Chuck Norris | QA Lead | Supportive mentor, rigorous reviewer — bugs fix themselves when he reviews the PR |
-| zephyr Anderson | Junior QA Engineer | That's me! |
+| zephyr Anderson | Junior QA Engineer | That's me! yay |
 
 | Name | GitHub |
 |------|--------|
