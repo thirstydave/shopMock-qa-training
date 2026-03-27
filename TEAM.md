@@ -12,7 +12,7 @@
 | Priya Sharma | @priya-mock |
 | Dan O'Brien | @dan-mock |
 | Chuck Norris | @chuck-norris-qa |
-| zephyrhawk21@gmail.com | zephyrhawk21-cloud |
+| zephyr Anderson | zephyrhawk21-cloud |
 
 ---
 *Junior QA: Your first task is to add your name and GitHub handle to this table, commit it on a new branch, and open a Pull Request.*
